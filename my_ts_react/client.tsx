@@ -1,6 +1,6 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-import RSP from "./RSP";
+import Lotto from "./Lotto";
 
-ReactDOM.render(<RSP />, document.querySelector("#root"));
+ReactDOM.render(<Lotto />, document.querySelector("#root"));
